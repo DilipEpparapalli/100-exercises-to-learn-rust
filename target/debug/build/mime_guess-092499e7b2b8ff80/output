@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/dilipepparapalli/Documents/100-exercises-to-learn-rust/target/debug/build/mime_guess-092499e7b2b8ff80/out/mime_types_generated.rs

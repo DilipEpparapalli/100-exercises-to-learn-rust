@@ -1,0 +1,1 @@
+searchState.loadedDescShard("variables", 0, "Given the start and end points of a journey, and the time …")

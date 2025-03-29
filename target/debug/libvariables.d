@@ -1,0 +1,1 @@
+/home/dilipepparapalli/Documents/100-exercises-to-learn-rust/target/debug/libvariables.rlib: /home/dilipepparapalli/Documents/100-exercises-to-learn-rust/exercises/02_basic_calculator/02_variables/src/lib.rs
